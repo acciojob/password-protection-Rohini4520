@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.input{
+	border-width: 1px;
+	color: #ccc;
+	padding: 0.5rem;
+	font-size: 1rem;
+}
